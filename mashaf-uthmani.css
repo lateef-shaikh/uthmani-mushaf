@@ -20,25 +20,46 @@
 
 }
 
+html {
+    direction: rtl;
+}
+
+section {
+    margin-right: 300px;
+    margin-left: 300px;
+    padding: 0px 20px 0px 20px;
+    background-color: lightyellow;
+    border: 5px solid gold;
+}
+
+h1 {
+    text-align: center;
+    color: gold;
+    font-weight: lighter;
+    text-shadow: -1px -1px 0 black, 1px -1px 0 black, -1px 1px 0 black, 1px 1px 0 black;
+}
+
 .eoAaya {
     font-size: 50.0pt;
     font-family: 'PakType Naskh Basic';
+    color: darkgreen;
 }
 
 .ramooz {
     font-size: 40.0pt;
     font-family: 'PakType Naskh Basic','Noto Naskh Arabic UI';
-    /*font-family: 'Noto Naskh Arabic UI','PakType Naskh Basic';*/	
+    color: darkblue;
 }
 
-.ramooz:before {
-	content: "\200c\00a0"; /* zwnj + nbsp "\200c\00a0" */
-}
+    .ramooz:before {
+        content: "\200c\00a0"; /* zwnj + nbsp "\200c\00a0" */
+    }
 
 .body {
     font-size: 30.0pt;
     /*font-family: 'Noto Naskh Arabic UI';*/
     font-family: 'PakType Naskh Basic','Noto Naskh Arabic UI';
+    position: relative;
 }
 
 .heading {
@@ -46,6 +67,7 @@
     font-family: 'PakType Naskh Basic','Noto Naskh Arabic UI';
 }
 
-.hashiya {
-    display: none;
+p {
+    text-align: center;
 }
+
