@@ -71,3 +71,21 @@ p {
     text-align: center;
 }
 
+.juz {
+    font-size: 16pt;
+    position: absolute;
+    left: 10px;
+    display: grid;
+    width: 100px;
+    color: darkolivegreen;
+    background-color: gold;
+}
+
+.manzil {
+    font-size: 16pt;
+    position: absolute;
+    left: 180px;
+    display: grid;
+    width: 100px;
+    color: darkmagenta;
+}
