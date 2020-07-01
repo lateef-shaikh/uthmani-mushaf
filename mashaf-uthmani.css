@@ -78,6 +78,7 @@ p {
     display: grid;    
     color: darkolivegreen;
     background-color: gold;
+    user-select: none;
 }
 
 .manzil {
@@ -87,4 +88,5 @@ p {
     display: grid;
     width: 6vw;
     color: darkmagenta;
+    user-select: none;
 }
