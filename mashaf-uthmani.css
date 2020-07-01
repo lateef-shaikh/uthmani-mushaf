@@ -74,6 +74,7 @@ p {
     font-size: 1vw;
     position: absolute;
     left: 0vw;
+    width: 5.5vw;
     display: grid;    
     color: darkolivegreen;
     background-color: gold;
