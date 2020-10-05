@@ -44,6 +44,12 @@ h1 {
     color: darkgreen;
 }
 
+.reh {
+    font-size: 1vw;
+    font-family: 'PakType Naskh Basic';
+    color: darkreds;
+}
+
 .ramooz {
     font-size: 2.5vw;
     font-family: 'PakType Naskh Basic','Noto Naskh Arabic UI';
@@ -75,7 +81,7 @@ p {
     position: absolute;
     left: 0vw;
     width: 5.5vw;
-    display: grid;    
+    display: inline-grid;
     color: darkolivegreen;
     background-color: gold;
     user-select: none;
@@ -88,5 +94,15 @@ p {
     display: grid;
     width: 6vw;
     color: darkmagenta;
+    user-select: none;
+}
+
+.reh-hashiya {
+    font-size: 1vw;
+    position: absolute;
+    left: 12vw;
+    display: inline-grid;
+    width: 6vw;
+    color: darkred;
     user-select: none;
 }
