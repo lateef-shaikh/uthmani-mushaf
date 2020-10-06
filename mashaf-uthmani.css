@@ -106,3 +106,16 @@ p {
     color: darkred;
     user-select: none;
 }
+
+[data-type="ra-izafi"] {
+    color: darkblue;
+}
+
+.hashiya {
+    font-size: 1vw;
+    position: absolute;
+    left: 12vw;
+    display: inline-grid;
+    width: 6vw;
+    user-select: none;
+}
