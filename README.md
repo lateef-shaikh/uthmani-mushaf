@@ -16,3 +16,7 @@ This repository has individual HTML5 files for every soora. Since HTML5 is based
 
 ## Hosted at
 The contents of this repository are hosted at [Karachvi.com](https://www.karachvi.com)
+
+## Why this Quran text uses Farsi Yeh:
+Final shape of Yeh in this Quran style does not have dots (nukta) at the bottom. Therefore I have used Farsi Yeh. However I have kept Alef Maqsura throughout the text wherever it's needed. Here is a video which explains it:
+https://youtu.be/nk3wjTBluSo
