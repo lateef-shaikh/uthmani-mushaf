@@ -13,6 +13,12 @@ This repository has individual HTML5 files for every soora. Since HTML5 is based
 * Usage of end of ayah (U+06DD) with Arabic numbers
 * Usage of correct codes for Open Tanween (U+08F0, U+08F1 and U+08F2)
 * Separate tags for ramooz signs within text
+* Separate tags for additional information which is normally published in the margins
+* Each ayah has attributes for juz, manzil, hizb and hizb quarter numbers
 
 ## Hosted at
 The contents of this repository are hosted at [Karachvi.com](https://www.karachvi.com)
+
+## Why this Quran text uses Farsi Yeh:
+Final shape of Yeh in this Quran style does not have dots (nukta) at the bottom. Therefore I have used Farsi Yeh. However I have kept Alef Maqsura throughout the text wherever it's needed. Here is a video which explains it:
+https://youtu.be/nk3wjTBluSo
