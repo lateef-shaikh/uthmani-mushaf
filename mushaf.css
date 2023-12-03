@@ -11,8 +11,21 @@
 @font-face {
     font-family: 'PakType Naskh Basic Wide';
     font-style: normal;
+    /*font-stretch: expanded;*/
     src: url(https://www.karachvi.com/fonts/paktype/PakTypeNaskhBasicWide.eot);
-    src: url(https://www.karachvi.com/fonts/paktype/PakTypeNaskhBasicWide.eot?#iefix) format('embedded-opentype'), url(https://www.karachvi.com/fonts/paktype/PakTypeNaskhBasicWide.woff2) format('woff2'), url(https://www.karachvi.com/fonts/paktype/PakTypeNaskhBasicWide.woff) format('woff'), url(https://www.karachvi.com/fonts/paktype/PakTypeNaskhBasicWide.ttf) format('truetype'), url(https://www.karachvi.com/fonts/paktype/PakTypeNaskhBasicWide.svg#svgFontName) format('svg'); /* Legacy iOS */
+    src: url(https://www.karachvi.com/fonts/paktype/PakTypeNaskhBasicWide.eot?#iefix) format('embedded-opentype')
+    , url(https://www.karachvi.com/fonts/paktype/PakTypeNaskhBasicWide.woff2) format('woff2')
+    , url(https://www.karachvi.com/fonts/paktype/PakTypeNaskhBasicWide.woff) format('woff')
+    , url(https://www.karachvi.com/fonts/paktype/PakTypeNaskhBasicWide.ttf) format('truetype')
+    , url(https://www.karachvi.com/fonts/paktype/PakTypeNaskhBasicWide.svg#svgFontName) format('svg'); /* Legacy iOS */
+}
+
+@font-face {
+    font-family: 'PakType Naskh Basic';
+    font-style: normal;
+    /*font-stretch: expanded;*/
+    src: url(https://www.karachvi.com/fonts/paktype/PakTypeNaskhBasic.eot);
+    src: url(https://www.karachvi.com/fonts/paktype/PakTypeNaskhBasic.eot?#iefix) format('embedded-opentype'), url(https://www.karachvi.com/fonts/paktype/PakTypeNaskhBasic.woff2) format('woff2'), url(https://www.karachvi.com/fonts/paktype/PakTypeNaskhBasic.woff) format('woff'), url(https://www.karachvi.com/fonts/paktype/PakTypeNaskhBasic.ttf) format('truetype'), url(https://www.karachvi.com/fonts/paktype/PakTypeNaskhBasic.svg#svgFontName) format('svg'); /* Legacy iOS */
 }
 
 html {
