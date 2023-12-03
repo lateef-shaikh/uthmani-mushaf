@@ -21,9 +21,6 @@ This repository has individual HTML5 files for every soora. Since HTML5 is based
 ## Salient features of this branch:
 * Usage of U+2060 between Fatha and Super Script Alef only on those alphabets that do not have medial shape like Ra, Dal. For the alphabets with medial shapes this branch has this pattern: {alphabet} + Fatha + Tatweel + Super script Alef.
 
-## Hosted at
-The contents of this repository are hosted at [Karachvi.com](https://www.karachvi.com)
-
 ## Why this Quran text uses Farsi Yeh:
 Final shape of Yeh in this Quran style does not have dots (nukta) at the bottom. Therefore I have used Farsi Yeh. However I have kept Alef Maqsura throughout the text wherever it's needed. Here is a video which explains it:
 https://youtu.be/nk3wjTBluSo
