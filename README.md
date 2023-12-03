@@ -16,6 +16,10 @@ This repository has individual HTML5 files for every soora. Since HTML5 is based
 * Separate tags for additional information which is normally published in the margins
 * Each ayah has attributes for juz, manzil, hizb and hizb quarter numbers.
 * List of all characters used in this mushaf is located here: https://karachvi.com/quran/charsUsedUthmani.html
+* Usage of U+0675 (High Hamza Alef) where Alef has high hamza before Alef and not on top of it.
+
+## Salient features of this branch:
+* Usage of U+2060 between Fatha and Super Script Alef in all alphabets where they are not intended to stack over each other.
 
 ## Hosted at
 The contents of this repository are hosted at [Karachvi.com](https://www.karachvi.com)
