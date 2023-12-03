@@ -19,7 +19,7 @@ This repository has individual HTML5 files for every soora. Since HTML5 is based
 * Usage of U+0675 (High Hamza Alef) where Alef has high hamza before Alef and not on top of it.
 
 ## Salient features of this branch:
-* Usage of U+2060 between Fatha and Super Script Alef only on those alphabets that do not have medial shape like Ra, Dal. For the alphabets with medial shapes this branch has this pattern: <alphabet> + Fatha + Tatweel + Super script Alef.
+* Usage of U+2060 between Fatha and Super Script Alef only on those alphabets that do not have medial shape like Ra, Dal. For the alphabets with medial shapes this branch has this pattern: {alphabet} + Fatha + Tatweel + Super script Alef.
 
 ## Hosted at
 The contents of this repository are hosted at [Karachvi.com](https://www.karachvi.com)
